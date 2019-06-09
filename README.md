@@ -6,6 +6,8 @@ Tools sederhana yang dibuat dengan bash. Berisi beberapa tools yang digabungkan 
 
 <pre>$ apt-get install git</pre>
 
-<pre>$ chmod +x bangsat.sh && sh bangsat.sh</pre>
+<pre>$ cd bangsat</pre>
+<pre>$ chmod +x bangsat.sh</pre>
+<pre>$ sh bangsat.sh</pre> 
 
 Selamat menggunakan!
